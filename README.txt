@@ -1,4 +1,4 @@
-A simple portfolio built with help of follwing webiste:
+A simple portfolio built with help of follwing website:
 
 Strata by HTML5 UP
 html5up.net | @ajlkn
